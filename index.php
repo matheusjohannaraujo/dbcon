@@ -1,12 +1,5 @@
 <?php
 
-/*
-	Country: Brasil
-	State: Pernambuco
-	Developer: Matheus Johann Araújo
-	Date: 2018-03-07
-*/
-
 require_once("DBCon.php");
 
 $DBCon = new DBCon();
