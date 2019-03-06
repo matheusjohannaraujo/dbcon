@@ -1,7 +1,6 @@
 <?php
 
 /*
-	Bitbucket: https://bitbucket.org/matheusjohannaraujo/dbcon/
 	Country: Brasil
 	State: Pernambuco
 	Developer: Matheus Johann Araújo
