@@ -1,13 +1,5 @@
 <?php
 
-/*
-	Bitbucket: https://bitbucket.org/matheusjohannaraujo/dbcon/
-	Country: Brasil
-	State: Pernambuco
-	Developer: Matheus Johann Araújo
-	Date: 2018-03-07
-*/
-
 class DBCon {
 
 	private $sgbd = 'mysql';
